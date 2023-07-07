@@ -12,5 +12,6 @@ public class Baseball {
     @Test
     public void printBaseball() {
         System.out.println("야구 테스트");
+        System.out.println("테스트");
     }
 }
